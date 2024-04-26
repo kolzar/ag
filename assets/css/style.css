@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg_af_def.png") top center;
   background-size: cover;
   position: relative;
 }
